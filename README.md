@@ -1,5 +1,18 @@
-# CONTATANOS-
-BB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -9,9 +22,6 @@ BB
     <!-- Bootstrap CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        html {
-            scroll-behavior: smooth; /* Para scroll suave */
-<style>
         * {
             margin: 0;
             padding: 0;
@@ -115,46 +125,62 @@ BB
             font-weight: 500;
         }
 
-.contact-section {
-            padding: 30px 0;
-            background-color: black;
+        html {
+            scroll-behavior: smooth; /* Para scroll suave */
+        }
+        .contact-section {
+            padding: 90px ;
+            background-color:rgba(0,0,0,0.1);
         }
         .contact-info {
-            padding: 10px;
-            border-radius: 8px;
-            background-color: white;;
-            box-shadow: 0 10px 10px white(0,0,0,0.1);
+            padding: 20px;
+            border-radius: 9px;
+            background-color: rgba(1, 67, 255, 0.3);
+            box-shadow: 0 20px 20px rgba(0,0,0,0.1);
         }
-        
+
+        .mb-3{column-rule-color: #fff;}
     </style>
 </head>
 <body>
-
-    <!-- Sección Inicio -->
-    <section id="inicio" class="mt-5 pt-5">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
-            <h2>Bienvenidos a nuestra tienda</h2>
-            <!-- Contenido de inicio aquí -->
+            <a class="navbar-brand" href="#">Mi Tienda</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#inicio">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contacto">Contacto</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="modal" data-bs-target="#contactModal" 
+                           style="cursor: pointer;">Contacto Modal</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </section>
+    </nav>
 
-    <!-- Sección Productos -->
-    <section id="productos" class="py-5">
-        <div class="container">
-            <h2>Nuestros Productos</h2>
-            <!-- Contenido de productos aquí -->
+
+    <footer class="bg-dark text-white py-4">
+        <div class="container text-center">
+            <h3 class="mb-0">Bienvenidos a nuestra tienda</h3>
         </div>
-    </section>
-
-    <!-- Sección de Contacto -->
+    </footer>
     <section id="contacto" class="contact-section">
         <div class="container">
-            <h2 class="text-center mb-5">Contáctanos</h2>
+            <h3 class="mb-3">Contáctanos</h3>
             <div class="row">
                 <!-- Información de Contacto -->
-                <div class="col-md-6 mb-4">
+                <div class="mb-3">
                     <div class="contact-info">
-                        <h3>Información de Contacto</h3>
+                        <h3>Información </h3>
                         <ul class="list-unstyled">
                             <li class="mb-3">
                                 <i class="bi bi-geo-alt"></i>
@@ -178,7 +204,7 @@ BB
                 <!-- Formulario de Contacto -->
                 <div class="col-md-6">
                     <div class="contact-info">
-                        <h3>Envíanos un mensaje</h3>
+                        <h3>Llenar</h3>
                         <form id="contactForm">
                             <div class="mb-3">
                                 <label for="nombre" class="form-label">Nombre</label>
@@ -233,11 +259,7 @@ BB
     </div>
 
     <!-- Footer -->
-    <footer class="bg-dark text-white py-4">
-        <div class="container text-center">
-            <p class="mb-0">© 2024 Mi Tienda. Todos los derechos reservados.</p>
-        </div>
-    </footer>
+    
 
     <!-- Bootstrap JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
@@ -268,5 +290,3 @@ BB
     </script>
 </body>
 </html>
-
-   
