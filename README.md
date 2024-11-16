@@ -122,75 +122,7 @@
           </a>
         </div>
     
-        <div class="container my-5">
-          <h2 class="text-center mb-4">Nuestros Relojes</h2>
-          <div class="row">
-            <div class="col-md-4 mb-4">
-              <div class="card h-100">
-                <img src="https://www.dhresource.com/0x0/f2/albu/g3/M01/A9/54/rBVaHVZJziSAN7e0AAGNU6CoJXo680.jpg" class="card-img-top" alt="Reloj 1">
-                <div class="card-body">
-                  <h5 class="card-title">Reloj Clásico</h5>
-                  <p class="card-text">Reloj de diseño clásico con caja de acero inoxidable y correa de cuero.</p>
-                  <p class="card-text font-weight-bold">$129.99</p>
-                  <a href="#" class="btn btn-primary">Comprar Ahora</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 mb-4">
-              <div class="card h-100">
-                <img src="https://www.relojesdeportivos.com.es/wp-content/uploads/2020/02/que-es-un-reloj-deportivo-768x768.jpg" class="card-img-top" alt="Reloj 2">
-                <div class="card-body">
-                  <h5 class="card-title">Reloj Deportivo</h5>
-                  <p class="card-text">Reloj resistente al agua con funciones de cronógrafo y caja de titanio.</p>
-                  <p class="card-text font-weight-bold">$199.99</p>
-                  <a href="#" class="btn btn-primary">Comprar Ahora</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 mb-4">
-              <div class="card h-100">
-                <img src="https://pic4.zhimg.com/v2-bada9daca9fba2e3d88a9e446231dbeb_r.jpg" class="card-img-top" alt="Reloj 3">
-                <div class="card-body">
-                  <h5 class="card-title">Reloj de Lujo</h5>
-                  <p class="card-text">Reloj de diseño elegante con caja de oro rosa y correa de piel.</p>
-                  <p class="card-text font-weight-bold">$499.99</p>
-                  <a href="#" class="btn btn-primary">Comprar Ahora</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-    
-        <div class="container my-5">
-          <h2 class="text-center mb-4">Testimonios de Nuestros Clientes</h2>
-          <div class="row">
-            <div class="col-md-4 mb-4">
-              <div class="card h-100">
-                <div class="card-body">
-                  <p class="card-text">"¡Excelente calidad y diseño! Mi nuevo reloj es hermoso y funciona perfectamente."</p>
-                  <p class="card-text font-weight-bold">- Juan Pérez</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 mb-4">
-              <div class="card h-100">
-                <div class="card-body">
-                  <p class="card-text">"Estoy muy satisfecho con mi compra. El servicio al cliente fue excepcional y el envío fue rápido."</p>
-                  <p class="card-text font-weight-bold">- María Gómez</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 mb-4">
-              <div class="card h-100">
-                <div class="card-body">
-                  <p class="card-text">"¡Me encanta mi nuevo reloj! Es elegante, cómodo y supera todas mis expectativas."</p>
-                  <p class="card-text font-weight-bold">- Carlos Sánchez</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </main>
+       
     
       <footer class="bg-dark text-white py-4">
         <div class="container">
@@ -211,4 +143,3 @@
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-</html>
