@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +5,6 @@
     <title>Tienda con Sección de Contactos</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
-
-</head>
 <body>
     <style>
         .card-img-top {
@@ -86,6 +83,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <a class="navbar-brand" href="#">Reloj Maestro</a>
+          <a class="navbar-brand" href="#">Reloj inicio</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -114,14 +112,6 @@
     
       <main>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          </ol>
-          <div class="carousel-inner"></div>
-            <div class="carousel-item active">
-              <img src="#" class="d-block w-100" alt="Reloj 1"width="0" height="0">
             </div>
             <div class="carousel-item">
               <img src="#" class="d-block w-100" alt="Reloj 2"width="0" height="0">
@@ -242,5 +232,4 @@
             });
         });
     </script>
-</body>
-</html>
+
