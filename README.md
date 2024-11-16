@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -92,8 +93,6 @@
             <ul class="navbar-nav">
               <li class="nav-item active">
                 <a class="nav-link"https://jd-354.github.io/RJ/ ">Inicio</a>
-              </li>
-              <li class="nav-item">
               </li>
               <li class="nav-item">
             <a class="nav-link" href="https://jd-354.github.io/SOBRE-NOSOTROS-/">Sobre Nosotros</a>
@@ -239,5 +238,3 @@
             });
         });
     </script>
-</body>
-</html>
