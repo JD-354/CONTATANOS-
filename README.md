@@ -79,7 +79,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item active">
-                <a class="nav-link" href="#">Inicio</a>
+                <a class="nav-link" href="">Inicio</a>
               </li>
               <li class="nav-item">
             <a class="nav-link" href="https://jd-354.github.io/SOBRE-NOSOTROS-/">Sobre Nosotros</a>
