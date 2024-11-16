@@ -4,7 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tienda con Sección de Contactos</title>
     <!-- Bootstrap CSS -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="styleshee></link>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
 <body>
     <style>
         .card-img-top {
@@ -78,7 +80,6 @@
         }
 
       </style>
-    </head>
     </body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -117,7 +118,6 @@
           </ol>
           <div class="carousel-inner"></div>
             <div class="carousel-item active">
-            </div>
             <div class="carousel-item">
               <img src="#" class="d-block w-100" alt="Reloj 2"width="0" height="0">
             </div>
@@ -237,3 +237,5 @@
             });
         });
     </script>
+</body>
+</html>
