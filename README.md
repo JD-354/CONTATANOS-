@@ -122,7 +122,101 @@
           </a>
         </div>
     
-       
+       <section id="contacto-info" class="contact-section">
+        <div class="container">
+            <h3 class="mb-3"></h3>
+            <div class="row">
+                            <li class="mb-3">
+                                <i class="bi bi-telephone"></i>
+                                <footer class="bg-dark text-white py-4">
+                                    <div class="container text-center">
+                                        <h3 class="mb-0">PARA CONTATARNOS</h3>
+                                    </div>
+                                </footer>
+                                <section id="contacto" class="contact-section">
+                                    <div class="container">
+                                        <h3 class="mb-3"></h3>
+                                        <div class="row">
+                                            <!-- Información de Contacto -->
+                                            <div class="mb-3">
+                                                <div class="contact-info">
+                                                    <h3>Información </h3>
+                                                    <ul class="list-unstyled">
+                                                        <li class="mb-3">
+                                                            <i class="bi bi-geo-alt"></i>
+                                                            <strong>Dirección:</strong> Calle Principal #123
+                                                        </li>
+                                                        <li class="mb-3">
+                                                            <i class="bi bi-telephone"></i>
+                                                            <strong>Teléfono:</strong> (123) 456-7890
+                                                        </li>
+                                                        <li class="mb-3">
+                                                            <i class="bi bi-envelope"></i>
+                                                            <strong>Email:</strong> info@mitienda.com
+                                                        </li>
+                                                        <li class="mb-3">
+                                                            <i class="bi bi-clock"></i>
+                                                            <strong>Horario:</strong> Lun-Vie: 9:00 - 18:00
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <!-- Formulario de Contacto -->
+                                            <div class="col-md-6">
+                                                <div class="contact-info">
+                                                    <h3>Llenar</h3>
+                                                    <form id="contactForm">
+                                                        <div class="mb-3">
+                                                            <label for="nombre" class="form-label">Nombre</label>
+                                                            <input type="text" class="form-control" id="nombre" required>
+                                                        </div>
+                                                        <div class="mb-3">
+                                                            <label for="email" class="form-label">Email</label>
+                                                            <input type="email" class="form-control" id="email" required>
+                                                        </div>
+                                                        <div class="mb-3">
+                                                            <label for="mensaje" class="form-label">Mensaje</label>
+                                                            <textarea class="form-control" id="mensaje" rows="4" required></textarea>
+                                                        </div>
+                                                        <button type="submit" class="btn btn-primary">Enviar Mensaje</button>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                
+    
+    <!-- Footer -->
+    
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Script para el formulario -->
+    <script>
+        // Manejo del formulario de contacto
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            // Aquí puedes agregar la lógica para enviar el formulario
+            alert('Mensaje enviado correctamente!');
+            this.reset();
+        });
+
+        // Scroll suave para los enlaces de navegación
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
     
       <footer class="bg-dark text-white py-4">
         <div class="container">
