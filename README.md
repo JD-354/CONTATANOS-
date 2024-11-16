@@ -78,7 +78,7 @@
                 grid-template-columns: 1fr;
             }
         }
-</style>
+         </style>
     </head>
     <body>
       <header>
@@ -100,18 +100,28 @@
               </li>
             </ul>
           </div>
-         </nav>
+        </nav>
 
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
-    <main>
+    
+      <main>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           </ol>
-     
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="https://watchfluence.com/wp-content/uploads/2024/04/v2-agkrn-0u4x7-1024x702.jpg" alt="Reloj 1" class="d-block w-100" width="600" height="300">
+               </div>
+            <div class="carousel-item">
+              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" alt="Reloj 2" class="d-block w-100"  width=" 300" height="300">
+               </div>
+            <div class="carousel-item">
+              <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" alt="Reloj 3" class="d-block w-100"  width="500" height="300">
+              </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
@@ -121,7 +131,45 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
-        
+    
+        <div class="container my-5">
+          <h2 class="text-center mb-4">Nuestros Relojes</h2>
+          <div class="row">
+            <div class="col-md-4 mb-4">
+              <div class="card h-100">
+                <img src="https://www.dhresource.com/0x0/f2/albu/g3/M01/A9/54/rBVaHVZJziSAN7e0AAGNU6CoJXo680.jpg" class="card-img-top" alt="Reloj 1">
+                <div class="card-body">
+                  <h5 class="card-title">Reloj Clásico</h5>
+                  <p class="card-text">Reloj de diseño clásico con caja de acero inoxidable y correa de cuero.</p>
+                  <p class="card-text font-weight-bold">$129.99</p>
+                  <a href="#" class="btn btn-primary">Comprar Ahora</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 mb-4">
+              <div class="card h-100">
+                <img src="https://www.relojesdeportivos.com.es/wp-content/uploads/2020/02/que-es-un-reloj-deportivo-768x768.jpg" class="card-img-top" alt="Reloj 2">
+                <div class="card-body">
+                  <h5 class="card-title">Reloj Deportivo</h5>
+                  <p class="card-text">Reloj resistente al agua con funciones de cronógrafo y caja de titanio.</p>
+                  <p class="card-text font-weight-bold">$199.99</p>
+                  <a href="#" class="btn btn-primary">Comprar Ahora</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 mb-4">
+              <div class="card h-100">
+                <img src="https://pic4.zhimg.com/v2-bada9daca9fba2e3d88a9e446231dbeb_r.jpg" class="card-img-top" alt="Reloj 3">
+                <div class="card-body">
+                  <h5 class="card-title">Reloj de Lujo</h5>
+                  <p class="card-text">Reloj de diseño elegante con caja de oro rosa y correa de piel.</p>
+                  <p class="card-text font-weight-bold">$499.99</p>
+                  <a href="#" class="btn btn-primary">Comprar Ahora</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
                     
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
