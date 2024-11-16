@@ -9,9 +9,9 @@
 
 </head>
 <body>
-       <style>
-.card-img-top {
-  height: 200px;
+    <style>
+        .card-img-top {
+          height: 200px;
           object-fit: cover;
         }
 
@@ -28,6 +28,17 @@
             font-weight: bold;
             color: #fff;
             text-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+        }
+
+        .contact-section {
+            padding: 20px ;
+            background-color:rgba(0,0,0,0.1);
+        }
+        .contact-info {
+            padding: 20px;
+            border-radius: 20px;
+            background-color:rgba(255, 255, 255, 0.1);
+            box-shadow: 0 20px 20px rgb(0, 170, 255);
         }
 
 
@@ -69,22 +80,10 @@
             }
         }
 
-        .contact-section {
-            padding: 90px ;
-            background-color:rgba(0,0,0,0.1);
-        }
-        .contact-info {
-            padding: 20px;
-            border-radius: 9px;
-            background-color:rgba(255, 255, 255, 0.1);
-            box-shadow: 0 20px 20px rgb(0, 170, 255);
-        }
-
-
       </style>
     </head>
-    <body>
-      <header>
+    </body>
+    <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <a class="navbar-brand" href="#">Reloj Maestro</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -93,7 +92,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item active">
-                <a class="nav-link" href="#">Inicio </a>
+                <a class="nav-link" href="#">Inicio <span class="sr-only"></span></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Productos</a>
@@ -110,6 +109,8 @@
 
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
+    
+    
     
       <main>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -243,5 +244,3 @@
     </script>
 </body>
 </html>
-
-       
