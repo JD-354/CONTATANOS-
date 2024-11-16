@@ -90,7 +90,10 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item active">
-                <a class="nav-link" href="https://jd-354.github.io/RJ/">Inicio</a>
+                <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Productos</a>
               </li>
               <li class="nav-item">
             <a class="nav-link" href="https://jd-354.github.io/SOBRE-NOSOTROS-/">Sobre Nosotros</a>
@@ -101,11 +104,11 @@
             </ul>
           </div>
         </nav>
-
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
     
-                    
+      <main>
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
             <h3 class="mb-0"></h3>
