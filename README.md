@@ -78,10 +78,10 @@
                 grid-template-columns: 1fr;
             }
         }
-
-      </style>
-    </body>
-    <header>
+</style>
+    </head>
+    <body>
+      <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <a class="navbar-brand" href="#">Reloj Maestro</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -91,8 +91,6 @@
             <ul class="navbar-nav">
               <li class="nav-item active">
                 <a class="nav-link" href="https://jd-354.github.io/CONTATANOS-/">Inicio</a>
-              </li>
-              <li class="nav-item">
               </li>
               <li class="nav-item">
             <a class="nav-link" href="https://jd-354.github.io/SOBRE-NOSOTROS-/">Sobre Nosotros</a>
@@ -106,12 +104,8 @@
 
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
-     <main>
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    
+      <main>
           </ol>
           <div class="carousel-inner"></div>
             <div class="carousel-item active">
