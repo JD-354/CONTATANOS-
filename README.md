@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Reloj Maestro - Tienda de Relojes</title>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-</head>
 <body>
        <style>
         .card-img-top {
@@ -123,15 +121,14 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="https://watchfluence.com/wp-content/uploads/2024/04/v2-agkrn-0u4x7-1024x702.jpg"alt="Reloj 1" class="d-block w-100"width="600" height="300">
+              <img src="https://www.frs-syltfaehre.de/fileadmin/_processed_/9/b/csm_frs-syltfaehre-travel-value-shop-uhren_cf39b528eb.jpg"alt="Reloj 1" class="d-block w-100"width="600" height="300">
             </div>
             <div class="carousel-item">
-              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" class="d-block w-100" alt="Reloj 2"width="300" height="300">
+              <img src=https://st-th-1.byteark.com/assets.punpro.com/contents/i6612/1569578488912-2.jpg""alt="2" class="d-block w-100" width="300" height="300">
             </div>
             <div class="carousel-item">
-              <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" " class="d-block w-100" alt="Reloj 3" width="500" height="300">
+              <img src=https://wornandwound.com/library/uploads/2021/10/DSC_5760.jpg"" alt="Reloj 3"  class="d-block w-100"  width="500" height="300">
             </div>
-          </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
