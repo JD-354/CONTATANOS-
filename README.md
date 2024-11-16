@@ -78,10 +78,11 @@
                 grid-template-columns: 1fr;
             }
         }
-         </style>
+
+      </style>
     </head>
-    <body>
-      <header>
+    </body>
+    <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <a class="navbar-brand" href="#">Reloj Maestro</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -90,10 +91,9 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item active">
-                <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="https://jd-354.github.io/CONTATANOS-/">Inicio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Productos</a>
               </li>
               <li class="nav-item">
             <a class="nav-link" href="https://jd-354.github.io/SOBRE-NOSOTROS-/">Sobre Nosotros</a>
@@ -104,11 +104,40 @@
             </ul>
           </div>
         </nav>
+
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
     
+    
+    
       <main>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner"></div>
+            <div class="carousel-item active">
+              <img src="#"alt="Reloj 1"class="d-block w-100" width="0" height="0">
+            </div>
+            <div class="carousel-item">
+              <img src="#" alt="Reloj 2"class="d-block w-100" width="0" height="0">
+            </div>
+            <div class="carousel-item">
+              <img src="#"class="d-block w-100"  alt="Reloj 3" width="0" height="0">
+            </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+        
+                    
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
             <h3 class="mb-0"></h3>
@@ -210,3 +239,5 @@
             });
         });
     </script>
+</body>
+</html>
