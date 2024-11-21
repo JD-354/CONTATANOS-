@@ -246,7 +246,7 @@
               <a href="#" class="text-white mr-3">Contacto</a>
               <a href="#" class="text-white">Política de Privacidad</a>
           </div>
-        </div>
+         </div>
         </div>
       </footer> 
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
