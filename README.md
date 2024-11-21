@@ -200,12 +200,12 @@
                                                         <button type="submit" class="btn btn-primary">Enviar Mensaje</button>
                                                 
                                                 
-              </section>
+      
                 
     
     <!-- Footer -->
     <!-- Bootstrap JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    </script>
     
     <!-- Script para el formulario -->
     <script>
