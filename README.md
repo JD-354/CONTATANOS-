@@ -86,7 +86,6 @@
         }
 
       </style>
-    </head>
     <body>
       <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -96,7 +95,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-              <li class="nav-item active">
+              <li class="nav-item">
                 <a class="nav-link" href="https://jd-354.github.io/RJ/">Inicio</a>
               </li>
               <li class="nav-item">
@@ -249,11 +248,3 @@
           </div>
         </div>
       </footer>
-    
-      <script
-      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-      <script
-      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-      <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
