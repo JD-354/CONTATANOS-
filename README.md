@@ -135,18 +135,10 @@
           </a>
           
         
-        <div class="container my-5">
-     <section id="contacto-info" class="contact-section">
-        <div class="container">
-            <h3 class="mb-3"></h3>
-            <div class="row">
-                 <li class="mb-3">
-                                
-            <i class="bi bi-telephone">
-            </i>
+        
     
     
-                                   <div
+                                   
                                         <h3 class="mb-0">PARA CONTATARNOS</h3>
                                     </div>
                                 <section id="contacto" class="contact-section">
