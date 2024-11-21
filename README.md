@@ -199,7 +199,7 @@
                                                             <textarea class="form-control" id="mensaje" rows="4" required></textarea>
                                                         </div>
                                                         <button type="submit" class="btn btn-primary">Enviar Mensaje</button>
-                                                    </form>
+                                                
                                                 </div>
                                             </div>
     </div>
@@ -245,7 +245,6 @@
               <a href="#" class="text-white mr-3">Sobre Nosotros</a>
               <a href="#" class="text-white mr-3">Contacto</a>
               <a href="#" class="text-white">Política de Privacidad</a>
-            </div>
           </div>
         </div>
       </footer> 
