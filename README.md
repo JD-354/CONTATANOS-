@@ -203,19 +203,7 @@
       
                 
     
-    <!-- Footer -->
-    <!-- Bootstrap JS -->
-    </script>
-    
-    <!-- Script para el formulario -->
-    <script>
-        // Manejo del formulario de contacto
-        document.getElementById('contactForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            // Aquí puedes agregar la lógica para enviar el formulario
-            alert('Mensaje enviado correctamente!');
-            this.reset();
-        });
+
 
         // Scroll suave para los enlaces de navegación
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
