@@ -253,5 +253,7 @@
               <a href="#" class="text-white mr-3">Sobre Nosotros</a>
               <a href="#" class="text-white mr-3">Contacto</a>
               <a href="#" class="text-white">Política de Privacidad</a>
-      </footer>
+              </div>
+              </div>
+              </div>
 
