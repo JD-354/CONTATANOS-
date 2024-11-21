@@ -148,7 +148,6 @@
             <i class="bi bi-telephone">
             </i>
        class="bg-dark text-white py-4">
-                                   </div>
                                    class="container text-center">
                                         <h3 class="mb-0">PARA CONTATARNOS</h3>
                                     </div>
@@ -235,10 +234,7 @@
                 }
             });
         });
-       </script> 
-       </div>
-
-        <footer class="bg-dark text-white py-4">
+       </script>    <footer class="bg-dark text-white py-4">
         <div class="container">
           <div class="row">
             <div class="col-md-6">
