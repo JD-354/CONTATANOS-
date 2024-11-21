@@ -208,6 +208,33 @@
                 
     
     <!-- Footer -->
+    <!-- Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Script para el formulario -->
+    <script>
+        // Manejo del formulario de contacto
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            // Aquí puedes agregar la lógica para enviar el formulario
+            alert('Mensaje enviado correctamente!');
+            this.reset();
+        });
+
+        // Scroll suave para los enlaces de navegación
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+       </script>
     
 
     
