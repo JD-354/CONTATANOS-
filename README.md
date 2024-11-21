@@ -150,7 +150,6 @@
     
     
                                    <div
-                                   class="container text-center">
                                         <h3 class="mb-0">PARA CONTATARNOS</h3>
                                     </div>
                                 <section id="contacto" class="contact-section">
@@ -200,10 +199,7 @@
                                                         </div>
                                                         <button type="submit" class="btn btn-primary">Enviar Mensaje</button>
                                                 
-                                                </div>
-                                            </div>
-    </div>
-     </div>
+                                                
               </section>
                 
     
