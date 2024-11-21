@@ -233,8 +233,7 @@
             });
         });
     </script>
-    
-      <footer class="bg-dark text-white py-4">
+     <footer class="bg-dark text-white py-4">
         <div class="container">
           <div class="row">
             <div class="col-md-6">
@@ -248,7 +247,6 @@
           </div>
         </div>
       </footer>
-
       <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
       <script
