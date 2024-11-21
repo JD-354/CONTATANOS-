@@ -142,9 +142,11 @@
         <div class="container">
             <h3 class="mb-3"></h3>
             <div class="row">
-                            <li class="mb-3">
-                                <i class="bi bi-telephone"></i>
-                                <footer class="bg-dark text-white py-4">
+                 <li class="mb-3">
+                                
+            <i class="bi bi-telephone">
+            </i>
+       class="bg-dark text-white py-4">
                                     <div class="container text-center">
                                         <h3 class="mb-0">PARA CONTATARNOS</h3>
                                     </div>
