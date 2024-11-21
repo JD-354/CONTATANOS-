@@ -10,9 +10,6 @@
           height: 200px;
           object-fit: cover;
         }
-        responsive-image-2 {
-            width: 100%;
-            height: auto;
 
         body {
             font-family: 'Arial', sans-serif;
@@ -111,7 +108,6 @@
             </ul>
           </div>
         </nav>
-<div class="responsive-image-2>
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
       </div>
