@@ -147,7 +147,7 @@
                                 
             <i class="bi bi-telephone">
             </i>
-            <div>
+            <div
        class="bg-dark text-white py-4">
                                    class="container text-center">
                                         <h3 class="mb-0">PARA CONTATARNOS</h3>
@@ -235,7 +235,7 @@
                 }
             });
         });
-       </script>    <footer class="bg-dark text-white py-4">
+       </script>    < class="bg-dark text-white py-4">
         <div class="container">
           <div class="row">
             <div class="col-md-6">
@@ -250,7 +250,6 @@
         </div>
       </footer> 
       <script
-    <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
       <script
       src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
