@@ -148,7 +148,7 @@
             <i class="bi bi-telephone">
             </i>
             
-     < footer class="bg-dark text-white py-4">
+    
                                    <div
                                    class="container text-center">
                                         <h3 class="mb-0">PARA CONTATARNOS</h3>
@@ -249,6 +249,7 @@
           <a href="#" class="text-white">Política de Privacidad</a>
         </div>
       </div>
+    </div>
     </div>
     </footer>
 
