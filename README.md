@@ -5,7 +5,7 @@
       <title>Reloj Maestro - Tienda de Relojes</title>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     
-            <body>
+  <body>
         <style>
         .card-img-top {
           height: 200px;
@@ -147,7 +147,7 @@
                                 
             <i class="bi bi-telephone">
             </i>
-            class="bg-dark text-white py-4">
+    
     
                                    <div
                                    class="container text-center">
