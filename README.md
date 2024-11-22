@@ -105,12 +105,12 @@ body {
     </header>
 
     <main>
-      <div id="carouselExampleIndicators" class="carousel slide">
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">>
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          </ol>
+  
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img src="https://watchfluence.com/wp-content/uploads/2024/04/v2-agkrn-0u4x7-1024x702.jpg" alt="Reloj 1" class="d-block w-100" width="600" height="300">
