@@ -4,11 +4,10 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Reloj Maestro - Tienda de Relojes</title>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  </head>
     <body>
       <style>
         
-        body {
+  body {
         font-family: 'Arial', sans-serif;
         overflow-x: hidden;
         background: linear- gradient(45deg,rgba(255, 255, 255, 0.1) ,   black);;
@@ -83,7 +82,6 @@
     }
 
        </style>
-     </head>
        <body>
      <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
