@@ -118,7 +118,7 @@
         <img src="https://www.frs-syltfaehre.de/fileadmin/_processed_/9/b/csm_frs-syltfaehre-travel-value-shop-uhren_cf39b528eb.jpg"  class="d-block w-100" width="600" height="300">
         </div>
         <div class="carousel-item">
-         <img src="https://st-th-1.byteark.com/assets.punpro.com/contents/i6612/1569578488912-2.jpg"  class="d-block w-100" width="300" height="300">
+         <img src="https://st-th-1.byteark.com/assets.punpro.com/contents/i6612/1569578488912-2.jpg"  class="d-block w-100" width="600" height="300">
         </div>
         <div class="carousel-item">
         <img src="https://wornandwound.com/library/uploads/2021/10/DSC_5760.jpg"  class="d-block w-100" width="350" height="350">
