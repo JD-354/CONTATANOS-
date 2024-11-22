@@ -4,24 +4,24 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Reloj Maestro - Tienda de Relojes</title>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-body {
+  body {
         font-family: 'Arial', sans-serif;
         overflow-x: hidden;
-        background: linear- gradient(45deg,rgba(255, 255, 255, 0.1) ,   black);;
-       }
+        background: linear-gradient(45deg,rgba(255, 255, 255, 0.1) , black);;
+   }
 
     .navbar-brand img{ max-height: 500px;
     }
     .navbar-brand {
-         font-size: 1.5rem;
+        font-size: 1.5rem;
         font-weight: bold;
         color: #fff;
         text-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
     }
 
     .navbar-brand img{ max-height: 500px;
-     }
-      .navbar-brand {
+    }
+    .navbar-brand {
         font-size: 1.5rem;
         font-weight: bold;
         color: #fff;
@@ -78,8 +78,9 @@ body {
         }
     }
 
-       </style>
-       <body>
+    </style>
+    </head>
+    <body>
      <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#">Reloj Maestro</a>
@@ -104,17 +105,20 @@ body {
     <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
     </header>
 
-    <main>
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">>
-          <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="https://watchfluence.com/wp-content/uploads/2024/04/v2-agkrn-0u4x7-1024x702.jpg" alt="Reloj 1" class="d-block w-100" width="600" height="300">
-               </div>
+    < main>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+        <img src="https://www.frs-syltfaehre.de/fileadmin/_processed_/9/b/csm_frs-syltfaehre-travel-value-shop-uhren_cf39b528eb.jpg"  class="d-block w-100" width="600" height="300">
+        </div>
+        <div class="carousel-item">
+         <img src="https://st-th-1.byteark.com/assets.punpro.com/contents/i6612/1569578488912-2.jpg"  class="d-block w-100" width="300" height="300">
+        </div>
         <div class="carousel-item">
         <img src="https://wornandwound.com/library/uploads/2021/10/DSC_5760.jpg"  class="d-block w-100" width="350" height="350">
         </div>
@@ -222,9 +226,9 @@ body {
             }
         });
     });
-     </script>
+    </script>
 
-     <footer class="bg-dark text-white py-4">
+    <footer class="bg-dark text-white py-4">
     <div class="container">
       <div class="row">
         <div class="col-md-6">
@@ -241,4 +245,4 @@ body {
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> 
